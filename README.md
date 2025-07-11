@@ -7,7 +7,7 @@ Built with **Node.js**, **Express**, **MySQL**, and **Bootstrap**.
 
 ## 📌 Project Inspiration & Enhancements
 
-This project is inspired by [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)'s iDiscuss Forum (PHP).  
+This project is inspired by [CodeWithHarry](https://github.com/codewithharry)'s iDiscuss Forum (PHP).  
 I re-built the concept in the **MERN-style stack** using **Node.js** and **Express**, and also added modern features like:
 
 - 🔐 Users can upload a **profile photo**
@@ -78,7 +78,7 @@ npm install
 
 ### 3. Database Setup -
 
-> 💡 See complete [Database Schema Description](./database.md)
+> 💡 See complete [Database Schema Description](./Database.md)
 
 ```sql
 -- Create the database
